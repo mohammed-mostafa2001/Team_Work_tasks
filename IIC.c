@@ -3,7 +3,7 @@
  * Created on: Dec 10, 2022
  * Author : Mohammed Mostafa
  */
- /*but this  and iic.h in Mcal */
+ /*put this  and iic.h in Mcal */
 
 #include "IIC.h"
 
